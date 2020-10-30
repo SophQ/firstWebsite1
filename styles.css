@@ -1,0 +1,16 @@
+/* comment in css */
+/*
+property{
+	selector: value;
+}
+
+*/
+
+body{
+	color:white;
+	background-color: green;
+}
+
+p{
+	width: 500px;
+}
